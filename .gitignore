@@ -4,3 +4,5 @@ Xamarin.SamsungPass/SamsungPass.Android/bin/
 Xamarin.SamsungPass/SamsungPass.Android/obj/
 *.userprefs
 *.DS_Store
+/Xamarin.SamsungPass/SamsungPass.Android/SamsungPass.Android.csproj.bak
+/Xamarin.SamsungPass/Xamarin.SamsungPass.v12.suo
